@@ -1,5 +1,0 @@
-{
-  "action": "create",
-  "entity": "api_chaves",
-  "function": "api_chaves/create"
-}
